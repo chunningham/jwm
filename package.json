@@ -1,0 +1,12 @@
+{
+  "name": "jwm",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "jose": "^1.22.1"
+  }
+}
